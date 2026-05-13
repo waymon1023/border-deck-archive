@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/disclaimerfooter.tsx","./src/components/floatingcardfield.tsx","./src/components/heropanel.tsx","./src/components/playingcard.tsx","./src/data/cards.ts","./src/pages/carddetailpage.tsx","./src/pages/homepage.tsx"],"version":"5.9.3"}
